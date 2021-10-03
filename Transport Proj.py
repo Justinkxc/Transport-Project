@@ -8,10 +8,6 @@ Created on Sun Jun 26 04:20:51 2020
 
 """
 
-######################
-#Python Final Project#
-#####################
-
 @author: Justin
 
 Aim : To determine the most popular transportation option in Singapore
