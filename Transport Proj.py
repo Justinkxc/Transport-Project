@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 26 04:20:51 2020
-
-@author: user
-"""
-
 
 """
 
