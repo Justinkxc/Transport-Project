@@ -80,12 +80,13 @@ plt.legend(loc='best')
 plt.show()
 #plt.savefig("%s_Average_Daily_Public_Transport_Ridership_over_years.png" % type_of_public_transport.lower(), dpi=300) # save the scatter plot
 
-#---plot ridership for year 2016---#
-data=years["2016"]
+#---plot ridership for input year--#
+x = input("Please input year: ")
+data=years[x]
 plt.figure(figsize=(10,5))
 plt.bar(range(len(data)),data.values(), align='center')
 plt.xticks(range(len(data)), list(data.keys()))
-plt.title("Average Daily Public Transport Ridership for Year 2016") 
+plt.title("Average Daily Public Transport Ridership for Year")
 plt.xlabel("Type of Public Transport") 
 plt.ylabel("Average Ridership ('000 passanger trips per day)")
 plt.show()
