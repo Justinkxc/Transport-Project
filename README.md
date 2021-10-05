@@ -8,12 +8,12 @@ Ridership data is obtained from the API server of data.gov.sg
 https://data.gov.sg/dataset/public-transport-utilisation-average-public-transport-ridership
 
 
-#Obtaining and plotting ridership data over the years
+# Obtaining and plotting ridership data over the years
 
 ![img_1.png](img_1.png)
 
 
-#Obtaining and plotting data for individual years
+# Obtaining and plotting data for individual years
 
 The second half of the code will prompt for a year input.
 
