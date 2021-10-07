@@ -1,6 +1,6 @@
 # Singapore Transportation Demographic
 A webscraping practice project 
-To determine the most popular transportation option in Singapore from the year 1995 to 2016.
+To determine the popularity of transportation modes in Singapore from the year 1995 to 2016.
 Data will be visualised in python for meaningful inferences to be drawn.
 
 Ridership data is obtained from the API server of data.gov.sg 
