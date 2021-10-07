@@ -1,4 +1,4 @@
-# Singapore Transportation Ridership Visualisation
+hi# Singapore Transportation Ridership Visualisation
 Aim : A webscraping practice project 
 To determine the most popular transportation option in Singapore from the year 1995 to 2016.
 Data will be visualised in python for meaningful inferences to be drawn.
@@ -8,12 +8,12 @@ Ridership data is obtained from the API server of data.gov.sg
 https://data.gov.sg/dataset/public-transport-utilisation-average-public-transport-ridership
 
 
-# Obtaining and plotting ridership data over the years
+# Ridership from 1995-2016 
 
 ![img_1.png](img_1.png)
 
 
-# Obtaining and plotting data for individual years
+# Ridership of Individual Years
 
 The second half of the code will prompt for a year input.
 
